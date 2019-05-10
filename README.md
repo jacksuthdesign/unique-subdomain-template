@@ -5,4 +5,6 @@ Jack Sutherland Desi/gn uses a unique system of website management and developme
 
 This system uses 15 unique subdomains, all random English words. This template is for what should show when visiting just this subdomain (e.g. meow.jack.desi).
 
+You can test this template at https://jacksuthdesign.github.io/unique-subdomain-template/
+
 You can learn more about the Jack Sutherland Desi/gn staging system at http://go.jack.desi/stagingguidelines.
